@@ -1,0 +1,11 @@
+{
+  "name": "Astron Dynamic #10",
+  "description": "Astron Dynamic NFTs",
+  "image": "https://t9978.github.io/ast1/images/pod10.png",
+  "attributes": [
+    { "trait_type": "Background", "value": "Space" },
+    { "trait_type": "Capsule", "value": "Pod" },
+    { "trait_type": "Stage", "value": "First Launch" }
+  ],
+  "update_version": 1
+}
