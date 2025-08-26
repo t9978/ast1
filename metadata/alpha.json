@@ -1,0 +1,20 @@
+{
+  "name": "Astron Alpha #1",
+  "description": "Behold the first evolving dNFTs in XRPL history, forever marked and owned by the legend @Stro4Chiefs.",
+  "image": "https://t9978.github.io/ast1/images/alpha.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Capsule",
+      "value": "Pod"
+    },
+    {
+      "trait_type": "Stage",
+      "value": "First Launch"
+    }
+  ],
+  "update_version": 1
+}
