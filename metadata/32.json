@@ -1,0 +1,20 @@
+{
+  "name": "Astron dNFTs #32",
+  "description": "Astron dNFTs — the first dynamic NFTs to evolve on xrp.cafe.\nEach NFT evolves in a weekly cycle with 3 unique stages, featuring different artwork at every stage and for every NFT. 50% of all sales and royalties are allocated to Coreum staking. Join our Telegram group for more details.",
+  "image": "https://t9978.github.io/ast1/images/pod32.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Capsule",
+      "value": "Pod"
+    },
+    {
+      "trait_type": "Stage",
+      "value": "First Launch"
+    }
+  ],
+  "update_version": 1
+}
